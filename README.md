@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreyash Balapure</h1>
-<h3 align="center">A passionate fullstack java developer from India</h3>
+<h3 align="center">A passionate fullstack software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyashbalapure&label=Profile%20views&color=0e75b6&style=flat" alt="shreyashbalapure" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **programing**
 
-- 👯 I’m looking to collaborate on **java project**
+- 👯 I’m looking to collaborate on **project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shreyashbalapure](https://github.com/shreyashbalapure)
 
